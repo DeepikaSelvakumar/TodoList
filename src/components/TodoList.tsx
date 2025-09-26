@@ -1,6 +1,7 @@
 
 import type { Todo } from "../types/todo";
-import Todoitem from "./todoitem";
+import Todoitem from "./Todoitem";
+
 
 
 
